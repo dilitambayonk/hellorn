@@ -11,3 +11,8 @@
 ## Home Work 1
 
 - [Screenshoot](https://prnt.sc/XXr0rGZ2X4F0)
+
+## Lesson 3
+
+- [Screenshoot](https://prnt.sc/7jZxLv9UbkoR)
+- [Screenshoot](https://prnt.sc/WWHK65Rc4WfQ)
