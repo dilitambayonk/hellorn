@@ -22,6 +22,9 @@ const HomePage = () => {
       <Link href="/home-work-1" push asChild>
         <Button title="Go to Home Work 1" />
       </Link>
+      <Link href="/lesson-3-login" push asChild>
+        <Button title="Go to Lesson 3 - Login" />
+      </Link>
     </View>
   );
 };
