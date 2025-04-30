@@ -58,7 +58,7 @@ const users = [
   },
 ];
 
-export default function HomeScreen() {
+export default function Lesson2() {
   return (
     <ScrollView style={styles.container}>
       {users.map((user) => (
